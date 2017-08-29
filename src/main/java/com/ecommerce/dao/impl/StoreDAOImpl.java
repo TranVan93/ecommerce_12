@@ -36,4 +36,5 @@ public class StoreDAOImpl implements StoreDAO{
 				.list();
 		return listStore;
 	}
+
 }
